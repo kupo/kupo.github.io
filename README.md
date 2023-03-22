@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <head>
     <title>My Blog</title>
@@ -33,4 +32,4 @@
       <p>Follow me on social media:</p>
       <ul>
         <li><a href="#">Twitter</a></li>
-        <li><a href="#">Facebook</a
+        <li><a href="#">Facebook</a></li>
